@@ -428,3 +428,17 @@ h2 {
         opacity: 1;
     }
 }
+::-webkit-scrollbar {
+    width: 15px;
+    background: black;
+   }
+   ::-webkit-scrollbar-thumb {
+    background: linear-gradient(#01fbde,#01fbde, #01fbde);
+    border-radius: 6px;
+   }
+   ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(transparent,#01fbde9b, #01fbde9b);
+    border-radius: 6px;
+
+
+   }
