@@ -368,13 +368,15 @@ header ul li a:hover {
     width: 100%;
 }
 h1 {
-    color: black;
+    color: #01f9dc;
     text-align: center;
     padding: 0;
     margin: 0;
     font-family: 'Gruppo', cursive;
     font-size: 5rem;
     letter-spacing: 3px;
+    position: relative;
+    z-index: 1;
     
 }
 .hubtext {
@@ -392,6 +394,8 @@ h2 {
     font-family: 'Gruppo', cursive;
     font-size: 5rem;
     letter-spacing: 3px;
+    position: relative;
+    z-index: 1;
 
 }
 
