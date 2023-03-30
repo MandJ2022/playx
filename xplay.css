@@ -260,7 +260,7 @@ body
     font-size: 1rem;
     font-weight: 200;
     text-align: center;
-    top: 798px;
+    top: 837px;
     right: 230px;
 
 }
@@ -269,7 +269,7 @@ body
     display: flex;
     top: 519px;
     word-spacing: 2px;
-    left: -95px;
+    left: -77px;
 }
 .mvx {
     display: flex;
@@ -286,7 +286,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 700px;
+    top: 740px;
     right: 230px;
 
 }
