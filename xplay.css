@@ -295,7 +295,7 @@ header {
     height: 100px;
     background-color: transparent;
     padding: 30px;
-    animation: time ease forwards 12s;
+    animation: time ease forwards 13s;
     transition: 1s;
     position: fixed;
     top: 10px;
