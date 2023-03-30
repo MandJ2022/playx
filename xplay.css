@@ -320,10 +320,14 @@ header .logo {
     padding-left: 20px;
     font-family: 'Quicksand', sans-serif;
     position: relative;
-    top: 420px;
+    top: -439px;
 }
-ion-icon {
+ion-icon
+{   
     position: relative;
+    top: 435px;
+    color: white;
+    padding: 2px;
 
 }
 
