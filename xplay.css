@@ -310,6 +310,7 @@ header {
     border-radius: 2rem;
     transition: 1s;
     top: 10px;
+    z-index: 1;
 }
 
 header .logo {
