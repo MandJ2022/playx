@@ -308,7 +308,6 @@ header {
 .sticky {
     background-color: #0000005b;
     border-radius: 2rem;
-    z-index: 1;
     transition: 1s;
     top: 10px;
 }
