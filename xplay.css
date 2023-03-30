@@ -376,8 +376,6 @@ h1 {
     font-family: 'Gruppo', cursive;
     font-size: 5rem;
     letter-spacing: 3px;
-    position: relative;
-    z-index: 1;
     
 }
 .hubtext {
@@ -395,9 +393,6 @@ h2 {
     font-family: 'Gruppo', cursive;
     font-size: 5rem;
     letter-spacing: 3px;
-    position: relative;
-    z-index: 1;
-
 }
 
 @keyframes time
