@@ -267,9 +267,9 @@ body
 .middle {
     position: relative;
     display: flex;
-    top: 640px;
+    top: 519px;
     word-spacing: 2px;
-    left: 40px;
+    left: -95px;
 }
 .mvx {
     display: flex;
