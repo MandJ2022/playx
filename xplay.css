@@ -286,7 +286,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 950px;
+    top: 700px;
     right: 230px;
 
 }
@@ -320,7 +320,7 @@ header .logo {
     padding-left: 20px;
     font-family: 'Quicksand', sans-serif;
     position: relative;
-    top: 576px;
+    top: 420px;
 
 }
 
@@ -329,7 +329,7 @@ header ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 576px;
+    top: 420px;
 }
 
 header ul li {
