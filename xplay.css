@@ -436,7 +436,7 @@ h3 {
     height: 100px;
     top: 400px;
     text-decoration: none;
-    trasition: 1s;
+    transition: 1s;
 }
 h3:hover {
     color: #01f9dc;
