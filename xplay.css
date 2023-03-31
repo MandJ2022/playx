@@ -390,7 +390,7 @@ h1 {
     height: 100px;
     top: 400px;
     text-decoration: none;
-    transition: 0.5s;
+    transition: 1s;
 }
 h1:hover {
     color: #01f9dc;
@@ -405,7 +405,7 @@ h1:hover {
     height: 100px;
     top: 400px;
     text-decoration: none;
-    transition: 0.5s;
+    transition: 1s;
 }
 .lobby {
     position: relative;
@@ -436,6 +436,7 @@ h3 {
     height: 100px;
     top: 400px;
     text-decoration: none;
+    trasition: 1s;
 }
 h3:hover {
     color: #01f9dc;
@@ -450,7 +451,7 @@ h3:hover {
     height: 100px;
     top: 400px;
     text-decoration: none;
-    transition:0.5s;
+    transition: 1s;
 }
 .hubtext {
     position: absolute;
@@ -472,7 +473,7 @@ h2 {
     height: 100px;
     top: 400px;
     text-decoration: none;
-    transition: 0.5s;
+    transition: 1s;
 }
 h2:hover {
     color: #01f9dc;
@@ -487,7 +488,7 @@ h2:hover {
     height: 100px;
     top: 400px;
     text-decoration: none;
-    transition: 0.5s
+    transition: 1s
 }
 
 @keyframes time
