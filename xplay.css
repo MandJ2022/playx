@@ -407,7 +407,7 @@ h1:hover {
     top: 355px;
     text-decoration: none;
     transition: 1s;
-    -webkit-box-reflect: below -27px linear-gradient(transparent,transparent,#ffffff);
+    -webkit-box-reflect: below 27px linear-gradient(transparent,transparent,#ffffff);
 }
 .lobby {
     position: relative;
@@ -455,7 +455,7 @@ h3:hover {
     top: 400px;
     text-decoration: none;
     transition: 1s;
-    -webkit-box-reflect: below -27px linear-gradient(transparent,transparent,#ffffff);
+    -webkit-box-reflect: below 27px linear-gradient(transparent,transparent,#ffffff);
 }
 .hubtext {
     position: absolute;
@@ -494,7 +494,7 @@ h2:hover {
     top: 400px;
     text-decoration: none;
     transition: 1s
-    -webkit-box-reflect: below -27px linear-gradient(transparent,transparent,#ffffff);
+    -webkit-box-reflect: below 27px linear-gradient(transparent,transparent,#ffffff);
 }
 
 @keyframes time
