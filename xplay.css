@@ -21,7 +21,7 @@ body
     left: 50%;
     transform: translate(-50%, -50%);
     -webkit-box-reflect: below -168px linear-gradient(#00000026,#0000001f,#ffffff00);
-    height: 510px;
+    height: 472px;
 }
 #logo path:nth-child(1)
 {
