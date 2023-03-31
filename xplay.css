@@ -20,6 +20,8 @@ body
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    -webkit-box-reflect: below -168px linear-gradient(transparent,#00000024,#ffffff82);
+    height: 500px;
 }
 #logo path:nth-child(1)
 {
@@ -391,7 +393,6 @@ h1 {
     top: 355px;
     text-decoration: none;
     transition: 1s;
-    -webkit-box-reflect: below -27px linear-gradient(transparent,transparent,#ffffff);
 }
 h1:hover {
     color: #01f9dc;
@@ -399,7 +400,7 @@ h1:hover {
     padding: 0;
     margin: 0;
     font-family: 'Audiowide', cursive;
-    font-size: 6rem;
+    font-size: 5.5rem;
     letter-spacing: 3px;
     text-shadow: 0px 0px 4px #01fbde;
     position: relative;
@@ -407,7 +408,6 @@ h1:hover {
     top: 355px;
     text-decoration: none;
     transition: 1s;
-    -webkit-box-reflect: below 27px linear-gradient(transparent,transparent,#ffffff);
 }
 .lobby {
     position: relative;
@@ -439,7 +439,6 @@ h3 {
     top: 400px;
     text-decoration: none;
     transition: 1s;
-    -webkit-box-reflect: below -27px linear-gradient(transparent,transparent,#ffffff);
 }
 h3:hover {
     color: #01f9dc;
@@ -447,7 +446,7 @@ h3:hover {
     padding: 0;
     margin: 0;
     font-family: 'Audiowide', cursive;
-    font-size: 6rem;
+    font-size: 5.5rem;
     letter-spacing: 3px;
     text-shadow: 0px 0px 4px #01fbde;
     position: relative;
@@ -455,7 +454,6 @@ h3:hover {
     top: 400px;
     text-decoration: none;
     transition: 1s;
-    -webkit-box-reflect: below 27px linear-gradient(transparent,transparent,#ffffff);
 }
 .hubtext {
     position: absolute;
@@ -478,7 +476,6 @@ h2 {
     top: 400px;
     text-decoration: none;
     transition: 1s;
-    -webkit-box-reflect: below -27px linear-gradient(transparent,transparent,#ffffff);
 }
 h2:hover {
     color: #01f9dc;
@@ -486,15 +483,15 @@ h2:hover {
     padding: 0;
     margin: 0;
     font-family: 'Audiowide', cursive;
-    font-size: 6rem;
+    font-size: 5.5rem;
     letter-spacing: 3px;
     text-shadow: 0px 0px 4px #01fbde;
     position: relative;
     height: 100px;
     top: 400px;
     text-decoration: none;
-    transition: 1s
-    -webkit-box-reflect: below 27px linear-gradient(transparent,transparent,#ffffff);
+    transition: 1s;
+    
 }
 
 @keyframes time
