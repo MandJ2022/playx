@@ -20,8 +20,8 @@ body
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    -webkit-box-reflect: below -168px linear-gradient(transparent,#00000024,#ffffff82);
-    height: 500px;
+    -webkit-box-reflect: below -168px linear-gradient(#00000026,#0000001f,#ffffff00);
+    height: 510px;
 }
 #logo path:nth-child(1)
 {
