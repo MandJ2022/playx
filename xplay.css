@@ -5,6 +5,7 @@
     box-sizing:border-box;
     height: 100vh;
     font-family: 'Montserrat Alternates', sans-serif;
+    text-decoration: none;
 }
 body
 {
