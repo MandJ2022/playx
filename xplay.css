@@ -407,6 +407,51 @@ h1:hover {
     text-decoration: none;
     transition: 0.5s;
 }
+.lobby {
+    position: relative;
+    display: flex;
+    width: 100%;
+    min-height: 90vh;
+}
+.lobby img {
+    object-fit: cover;
+    width: 100%;
+}
+.lobbytext {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+h3 {
+    color: #01f9dc;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-family: 'Audiowide', cursive;
+    font-size: 5rem;
+    letter-spacing: 3px;
+    text-shadow: 0px 0px 4px #01fbde;
+    position: relative;
+    height: 100px;
+    top: 400px;
+    text-decoration: none;
+}
+h3:hover {
+    color: #01f9dc;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-family: 'Audiowide', cursive;
+    font-size: 6rem;
+    letter-spacing: 3px;
+    text-shadow: 0px 0px 4px #01fbde;
+    position: relative;
+    height: 100px;
+    top: 400px;
+    text-decoration: none;
+    transition:0.5s;
+}
 .hubtext {
     position: absolute;
     text-align: center;
