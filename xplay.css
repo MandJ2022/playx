@@ -384,7 +384,11 @@ h1 {
     font-family: 'Audiowide', cursive;
     font-size: 5rem;
     letter-spacing: 3px;
-    text-shadow: 0px 0px 4px #01fbde
+    text-shadow: 0px 0px 4px #01fbde;
+    position: relative;
+    height: 100px;
+    top: 400px
+    
     
 }
 .hubtext {
@@ -402,7 +406,10 @@ h2 {
     font-family: 'Audiowide', cursive;
     font-size: 5rem;
     letter-spacing: 3px;
-    text-shadow: 0px 0px 4px #01fbde
+    text-shadow: 0px 0px 4px #01fbde;
+    position: relative;
+    height: 100px;
+    top: 400px
 }
 
 @keyframes time
