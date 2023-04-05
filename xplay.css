@@ -25,33 +25,33 @@ body
 }
 #logo path:nth-child(1)
 {
-    stroke-dasharray: 1056.91px;
-    stroke-dashoffset: 1056.91px;
-    animation: animate 4s ease forwards 0.1s;
+    stroke-dasharray: 1526.93px;
+    stroke-dashoffset: 1526.93px;
+    animation: animate 3s ease forwards 0.5s;
 }
 #logo path:nth-child(2)
 {
-    stroke-dasharray: 478.41px;
-    stroke-dashoffset: 478.41px;
-    animation: animate 3s ease forwards 0.8s;
+    stroke-dasharray: 788.24px;
+    stroke-dashoffset: 788.24px;
+    animation: animate 3.5s ease forwards 1s;
 }
 #logo path:nth-child(3)
 {
-    stroke-dasharray: 976.67px;
-    stroke-dashoffset: 976.67px;
-    animation: animate 3s ease forwards 1.2s;
+    stroke-dasharray: 1479.34px;
+    stroke-dashoffset: 1479.34px;
+    animation: animate 4s ease forwards 1.5s;
 }
 #logo path:nth-child(4)
 {
-    stroke-dasharray: 1123.23px;
-    stroke-dashoffset: 1123.23px;
-    animation: animate 3s ease forwards 1.8s;
+    stroke-dasharray: 1684.08px;
+    stroke-dashoffset: 1684.08px;
+    animation: animate 4.5s ease forwards 2s;
 }
 #logo path:nth-child(5)
 {
-    stroke-dasharray: 1450.82px;
-    stroke-dashoffset: 1450.82px;
-    animation: animate 6s ease forwards 3.4s, 3.4s ease forwards fillWhite 5.4s;
+    stroke-dasharray: 2003.78px;
+    stroke-dashoffset: 2003.78px;
+    animation: 3.4s ease forwards fillWhite 5s;
 }
 #logo path:nth-child(6) {
     animation: 3.4s ease forwards fillWhite 5.4s;
