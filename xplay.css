@@ -67,7 +67,7 @@ body
     animation: 3.4s ease forwards fillWhite 5.4s;
 }
 #logo path:nth-child(10) {
-    animation: 3.4s ease forwards fillWhite 5.4s;
+    animation: 3.4s ease forwards fillWhite 5.4s, , 3.4s ease forwards fillWhite 7s;
 }
 #logo path:nth-child(11) {
     animation: 3.4s ease forwards fillWhite 5.4s;
